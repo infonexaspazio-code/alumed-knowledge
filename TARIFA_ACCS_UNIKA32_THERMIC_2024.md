@@ -1,239 +1,407 @@
 # TARIFA_ACCS_UNIKA32_THERMIC_2024 — Alumed Sistemas
 
-> Fuente: TARIFA_ACCS_UNIKA32  
-> Vigencia: Noviembre 2024  
-> Precios en € por unidad salvo indicación. Consultar delegación Valencia: valencia@alumed.es
-
+> Fuente: TARIFA_ACCS_UNIKA-32 (Noviembre 2024)
+> Vigencia: Noviembre 2024
+> Precios en € por unidad salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
 ## Leyenda de acabados
 
 | Código | Descripción |
 |---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
 | Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
+| LcBlanco | Lacado blanco |
+| LcVarios | Lacado varios RAL |
 | Acero | Acabado acero / inox |
+| Plata | Anodizado plata |
 
-## Referencias (32 artículos)
+## 004825 — CALZO HOJA FIJA
 
-### 004825 — 004826
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,3 |
+
+## 004826 — TOPE ANTIELEVACION
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1,1 |
+
+## 004827 — TOPE CORREDERA
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,15 |
 
-### 004827 — 004845
+## 004845 — CLIP TAPAJUNTAS (5566-18731)
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,01 |
+
+## 004846 — TAPAS REFUERZO (17803)
+
+| Acabado | Precio € |
+|---|---|
+
+## 026256 — DEFLECTOR CON TAPA
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,12 |
 
-### 004846 — 026256
+## 026255 — DEFLECTOR
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,07 |
 
-### 026255 — 004810
+## 004810 — GOMA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,34 |
+
+## 017821 — JUNTA PVC CUATRO HOJAS
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,55 |
 
-### 017821 — 004835
+## 004835 — PUNTO FIJACION TAPA GUIA SUP-INF
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,01 |
+
+## 033012 — FELPUDO FIN-SEAL 7*7
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,18 |
 
-### 033012 — 004800
+## 004800 — ESCUADRA HOJA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,75 |
+
+## 004910 — ESCUADRA EXTERIOR
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,71 |
 
-### 004910 — 004916
+## 004916 — UNION MARCO
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 29,70 |
+| Natural | 26,1 |
 
-### 004903 — 004801
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,80 |
-
-### 004802 — 004803
+## 004903 — ESCUADRA UNION MARCO 90º
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 4,00 |
+| Natural | 29,7 |
 
-### 004823 — 004824
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 30,00 |
-
-### 004804 — 004805
+## 004801 — CONTRACIERRE 4 H. 90º-135º ACERO
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 47,00 |
+| Natural | 2,0 |
 
-### 004806 — 004807
-
-| Acabado | Precio € |
-|---|---|
-| Blanco | 20,00 |
-| Natural | 51,00 |
-| LcBlanco | 20,00 |
-| LcVarios | 25,00 |
-
-### 004808 — 004809
+## 004802 — CONTRAC. M.LATERAL ACERO 3 CALZOS
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 20,00 |
-| LcBlanco | 20,00 |
-| LcVarios | 25,00 |
+| Natural | 1,8 |
 
-### 004811 — 004812
+## 004803 — MICRO VENTILACION ACERO
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 35,00 |
-| LcBlanco | 35,00 |
-| LcVarios | 42,00 |
+| Natural | 2,0 |
 
-### 004813 — 004814
+## 004823 — RUEDA NYLON ECO (0-60 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 3,30 |
+| Natural | 4,0 |
 
-### 004828 — 004836
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 5,00 |
-
-### 004837 — 004838
+## 004824 — RUEDA NYLON ECO (61-120 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 30,00 |
-| Natural | 8,10 |
-| LcBlanco | 30,00 |
-| LcVarios | 30,00 |
+| Natural | 6,0 |
 
-### 004839 — 004840
+## 004804 — RUEDA NYLON (0-30 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 30,00 |
-| Natural | 54,00 |
-| LcBlanco | 30,00 |
-| LcVarios | 30,00 |
+| Natural | 30,0 |
 
-### 004815 — 004816
+## 004805 — RUEDA NYLON (31-50 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 12,00 |
-| Natural | 54,00 |
-| LcBlanco | 12,00 |
-| LcVarios | 14,00 |
+| Natural | 39,0 |
 
-### 004830 — 004832
+## 004806 — RUEDA NYLON (51-80 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 12,00 |
-| LcBlanco | 12,00 |
-| LcVarios | 14,00 |
+| Natural | 47,0 |
 
-### 004817 — 004818
+## 004807 — RUEDA ACERO (81-120 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 18,00 |
-| LcBlanco | 18,00 |
-| LcVarios | 21,00 |
+| Natural | 35,0 |
 
-### 004819 — 004820
+## 004808 — RUEDA ACERO (121-150 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 10,00 |
-| LcBlanco | 10,00 |
-| LcVarios | 10,00 |
+| Natural | 51,0 |
 
-### 004821 — 004822
+## 004809 — RUEDA ACERO (151-300 KG)
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 5,25 |
+| Natural | 67,0 |
+
+## 004811 — CIERRE VENTANA 140
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 20,0 |
+| LcVarios | 25,0 |
+
+## 004812 — CIERRE VENTANA 140 REDUCIDO
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 22,0 |
+| LcVarios | 27,0 |
+
+## 004813 — CIERRE PUERTA 250
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 35,0 |
+| LcVarios | 42,0 |
+
+## 004814 — CIERRE PUERTA 250 REDUCIDO
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 37,0 |
+| LcVarios | 45,0 |
+
+## 004828 — CIERRE PLANO CRUCE 140
+
+| Acabado | Precio € |
+|---|---|
+
+## 004836 — KIT FLEJE CIERRE SEGURIDAD
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 3,3 |
+
+## 004837 — BLOQUEO HOJA FIJA
+
+| Acabado | Precio € |
+|---|---|
+
+## 004838 — PLETINA CIERRE MINI
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 5,0 |
+
+## 004839 — PLETINA CIERRE VENTANA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 8,1 |
+
+## 004840 — PLETINA CIERRE PUERTA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 15,8 |
+
+## 004815 — CIERRE BOTON
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 30,0 |
+| LcVarios | 30,0 |
+
+## 004816 — CIERRE SEGURIDAD LLAVE
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 26,0 |
+| LcVarios | 26,0 |
+
+## 004830 — CERRADURA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 54,0 |
+
+## 004832 — MEDIO BOMBIN
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 24,0 |
+
+## 004817 — TIRADOR VENTANA 140
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 12,0 |
+| LcVarios | 14,0 |
+
+## 004818 — TIRADOR VENTANA 140 REDUCIDO
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 13,0 |
+| LcVarios | 15,0 |
+
+## 004819 — TIRADOR PUERTA 250
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 18,0 |
+| LcVarios | 21,0 |
+
+## 004820 — TIRADOR PUERTA 250 REDUCIDO
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 19,0 |
+| LcVarios | 21,0 |
+
+## 004821 — TIRADOR EXTRAPLANO 140
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 10,0 |
+| LcVarios | 10,0 |
+
+## 004822 — TIRADOR EXTRAPLANO 250
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 14,0 |
+| LcVarios | 14,0 |
+
+## 004829 — TIRADOR ESPECIAL 140
+
+| Acabado | Precio € |
+|---|---|
 | LcBlanco | 5,25 |
 | LcVarios | 5,25 |
 
-### 004829 — 004841
+## 004841 — TAPA MARCO INFERIOR NORMAL
+
+| Acabado | Precio € |
+|---|---|
+
+## 004842 — TAPA MARCO INFERIOR SP
+
+| Acabado | Precio € |
+|---|---|
+
+## 004843 — TAPA CANALON PAVIMENTO SP
+
+| Acabado | Precio € |
+|---|---|
+
+## 004844 — TAPA CANALON SP
+
+| Acabado | Precio € |
+|---|---|
+
+## 004847 — FIN CARRERA SIMPLE
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 8,75 |
 
-### 004842 — 004843
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 8,75 |
-
-### 004844 — 004847
+## 004848 — CALZO CERRADURA
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 11,25 |
 
-### 004848 — 004849
+## 004849 — TAPA FINAL GUIA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 13,75 |
+
+## 004850 — TAPA CENTRAL INF.-SUP.
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 1,88 |
 
-### 004850 — 004851
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 8,75 |
-
-### 004853 — 004854
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 16,25 |
-
-### 004833 — 004852
+## 004851 — REMATE HOJA SUPERIOR
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 3,75 |
 
-### 004855 — 004993
+## 004853 — REMATE ESQUINA SUP. IZQ.
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 2050,00 |
+| Natural | 8,75 |
 
-### 004994 — 004995
+## 004854 — REMATE ESQUINA SUP.-DRCH
 
-*Precio sin acabado estándar — consultar delegación*
+| Acabado | Precio € |
+|---|---|
+| Natural | 8,75 |
+
+## 004833 — TOPE 2ª Y 3ª HOJA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 16,25 |
+
+## 004852 — SOPORTE GALANDAGE
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 42,0 |
+
+## 004855 — PIEZA GALANDAGE
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 3,75 |
+
+## 004993 — KIT MOTOR UNIKA 32-42 500 KG.
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1500,0 |
+
+## 004994 — KIT MOTOR UNIKA 32-42 1200 KG.
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 2050,0 |
+
+## 004995 — CORREA MOTOR UNIKA 32-42
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 2,2 |
 
