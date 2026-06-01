@@ -1,355 +1,318 @@
-# Insignia AMC — Tarifa Alumed 2025
+# INSIGNIA AMC — Tarifa Alumed 2025
+> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)
+> Precios en €/metro lineal salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
-> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)  
-> Precios en €/metro lineal salvo indicación.  
-> Consultar disponibilidad y condiciones en delegación Valencia: valencia@alumed.es
-
-## Leyenda de acabados
-
-| Código | Descripción |
-|---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial / colección |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
-| Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
-| Acero | Acabado acero / inox |
-
-## Perfiles y Accesorios (41 referencias)
-
-### 082110 — 004910 / ESCUADRA VTA.(HOJA PERIM.-FIJO) ESCUADRA EXTERIOR
+## 025427 — MARCO VENTANA RPT MM MA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,75 |
+| Blanco | 21.65 |
+| Plata | 22.90 |
+| L.Varios | 23.68 |
+| Br/Inox/Oro | 24.89 |
+| L.Especial | 25.76 |
 
-### 041219 — 082111 / ESCUADRA VTA. HOJA OCULTA NEO ESCUADRA PUERTA MARCO-HOJA
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,40 |
-
-### 005045 — 024033 / ESCUADRA ALINEACION HOJA ESCUADRA ALINEAR SOLAPE
+## 016691 — RCO VTA CSOLAPE RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,55 |
+| Blanco | 25.04 |
+| Plata | 26.50 |
+| L.Varios | 27.50 |
+| Br/Inox/Oro | 28.83 |
+| L.Especial | 30.01 |
 
-### 017210 — 017211 / UNION PILASTRA 65 MM. (5432) UNION PILASTRA PUERTA
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,00 |
-
-### 041221 — 082125 / JGO. TAPAS INVERSOR NEO JGO. TAPAS INVERSOR H.O. (55426)
+## 016692 — MARCO VTA CSOLAPE RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,60 |
+| Blanco | 24.13 |
+| Plata | 25.54 |
+| L.Varios | 26.48 |
+| Br/Inox/Oro | 27.78 |
+| L.Especial | 28.87 |
 
-### 041222 — 041223 / CALZO APOYO VIDRIO NEO JUNTA CENTRAL NEO
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,24 |
-
-### 082115 — 004041 / JUNTA HOJA-MARCO GOMA BURBUJA GUIADA
+## 025431 — MARCO PUERTA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,36 |
+| Blanco | 30.04 |
+| Plata | 31.76 |
+| L.Varios | 33.00 |
+| Br/Inox/Oro | 34.50 |
+| L.Especial | 36.02 |
 
-### 004001 — 017758 / GOMA LABIO CLIPADA EPDM GOMA APOYO CRISTAL (17755-17756)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,20 |
-
-### 060250 — 026255 / PLETINA FALLEBA POLIAMIDA C.E. DEFLECTOR
+## 015693 — MARCO MM RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 21,65 |
-| Plata | 22,90 |
-| L.Varios | 23,68 |
-| Br/Inox/Oro | 24,89 |
-| L.Especial | 25,76 |
+| Blanco | 27.63 |
+| Plata | 29.18 |
+| L.Varios | 30.20 |
+| Br/Inox/Oro | 31.61 |
+| L.Especial | 32.84 |
 
-### 025427 — Futura 28,27 016691 Futura 33,08
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 31,11 |
-| Blanco | 24,13 |
-| Plata | 25,54 |
-| L.Varios | 26,48 |
-| Br/Inox/Oro | 27,78 |
-| L.Especial | 28,87 |
-
-### 016692 — Futura 31,80 025431 Futura 39,72
+## 055427 — HOJA VENTANA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 35,09 |
-| Blanco | 27,63 |
-| Plata | 29,18 |
-| L.Varios | 30,20 |
-| Br/Inox/Oro | 31,61 |
-| L.Especial | 32,84 |
+| Blanco | 26.48 |
+| Plata | 27.97 |
+| L.Varios | 28.95 |
+| Br/Inox/Oro | 30.32 |
+| L.Especial | 31.49 |
 
-### 015693 — Futura 36,02 055427 Futura 34,55
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 39,63 |
-| Blanco | 26,40 |
-| Plata | 27,89 |
-| L.Varios | 28,86 |
-| Br/Inox/Oro | 30,23 |
-| L.Especial | 31,39 |
-
-### 055697 — Futura 34,44 055432 Futura 50,87
+## 055697 — HOJA CURVA VENTANA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 37,89 |
-| Blanco | 38,98 |
-| Plata | 41,14 |
-| L.Varios | 42,74 |
-| Br/Inox/Oro | 44,52 |
-| L.Especial | 46,57 |
+| Blanco | 26.40 |
+| Plata | 27.89 |
+| L.Varios | 28.86 |
+| Br/Inox/Oro | 30.23 |
+| L.Especial | 31.39 |
 
-### 055434 — Futura 51,24 015976 Futura 22,79
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 56,51 |
-| Blanco | 17,50 |
-| Plata | 18,42 |
-| L.Varios | 18,72 |
-| Br/Inox/Oro | 19,79 |
-| L.Especial | 20,04 |
-
-### 055430 — Futura 21,50 055431 Futura 18,26
+## 055432 — HOJA PUERTA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 23,21 |
-| Blanco | 23,28 |
-| Plata | 24,63 |
-| L.Varios | 25,50 |
-| Br/Inox/Oro | 26,77 |
-| L.Especial | 27,77 |
+| Blanco | 38.89 |
+| Plata | 41.02 |
+| L.Varios | 42.56 |
+| Br/Inox/Oro | 44.33 |
+| L.Especial | 46.31 |
 
-### 005432 — Futura 30,54 025433 Futura 43,40 / INSIGNIA AMC
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 33,65 |
-| Blanco | 39,66 |
-| Plata | 41,66 |
-| L.Varios | 42,82 |
-| Br/Inox/Oro | 44,60 |
-| L.Especial | 46,15 |
-
-### 025035 — Futura 49,99 025430 Futura 31,81
+## 055434 — HOJA PTAAPEXTERIOR RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 54,41 |
-| Blanco | 14,63 |
-| Plata | 15,54 |
-| L.Varios | 16,04 |
-| Br/Inox/Oro | 17,03 |
-| L.Especial | 17,47 |
+| Blanco | 38.98 |
+| Plata | 41.14 |
+| L.Varios | 42.74 |
+| Br/Inox/Oro | 44.52 |
+| L.Especial | 46.57 |
 
-### 055429 — Futura 19,22 025428 Futura 40,49
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 21,19 |
-| Blanco | 3,13 |
-| Plata | 3,32 |
-| L.Varios | 3,68 |
-| Br/Inox/Oro | 4,06 |
-| L.Especial | 4,21 |
-
-### 014291 — Futura 4,84 015670 Futura 36,75
+## 015976 — HOJA OCULTA INSIGNIA
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 6,15 |
-| Blanco | 20,54 |
-| Plata | 21,72 |
-| L.Varios | 22,66 |
-| Br/Inox/Oro | 23,59 |
-| L.Especial | 24,80 |
+| Blanco | 17.26 |
+| Plata | 18.38 |
+| L.Varios | 19.18 |
+| Br/Inox/Oro | 20.27 |
+| L.Especial | 21.10 |
 
-### 015666 — Futura 26,60 012770 Futura 8,59
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 30,43 |
-| Blanco | 5,73 |
-| Plata | 5,94 |
-| L.Varios | 6,48 |
-| Br/Inox/Oro | 6,87 |
-| L.Especial | 7,04 |
-
-### 035011 — Futura 7,69 014629 Futura 27,03
+## 055430 — HOJA OCULTA INSIGNIA AMC
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 9,39 |
-| Blanco | 20,18 |
-| Plata | 21,30 |
-| L.Varios | 21,61 |
-| Br/Inox/Oro | 23,02 |
-| L.Especial | 23,16 |
+| Blanco | 17.50 |
+| Plata | 18.42 |
+| L.Varios | 18.72 |
+| Br/Inox/Oro | 19.79 |
+| L.Especial | 20.04 |
 
-### 025435 — Futura 24,87 045012 Futura 6,36
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 26,87 |
-| Blanco | 30,13 |
-| Plata | 30,78 |
-| L.Varios | 31,42 |
-| Br/Inox/Oro | 32,87 |
-| L.Especial | 33,63 |
-
-### 014730 — Futura 36,22 014731 Futura 36,10 / INSIGNIA AMC
+## 055431 — INVERSOR HOJA OCULTA
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 41,66 |
-| L.Varios | 3,30 |
+| Blanco | 15.26 |
+| Plata | 16.04 |
+| L.Varios | 16.17 |
+| Br/Inox/Oro | 17.17 |
+| L.Especial | 17.20 |
 
-### 014261 — Futura 013121 Futura
-
-| Acabado | Precio € |
-|---|---|
-| Blanco | 2,35 |
-| Plata | 2,77 |
-| L.Varios | 2,98 |
-| Br/Inox/Oro | 3,65 |
-| L.Especial | 3,56 |
-
-### 017755 — Futura 4,41 017756 Futura
+## 005432 — PILASTRA VENTANA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 5,30 |
-| L.Varios | 1,40 |
+| Blanco | 23.28 |
+| Plata | 24.63 |
+| L.Varios | 25.50 |
+| Br/Inox/Oro | 26.77 |
+| L.Especial | 27.77 |
 
-### 005571 — Futura / ACCESORIOS INSIGNIA AMC
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,65 |
-
-### 082110 — 004910 / ESCUADRA VTA.(HOJA PERIM.-FIJO) ESCUADRA EXTERIOR
+## 025433 — PILASTRA PUERTA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,47 |
+| Blanco | 32.67 |
+| Plata | 34.55 |
+| L.Varios | 35.96 |
+| Br/Inox/Oro | 37.54 |
+| L.Especial | 39.29 |
 
-### 082111 — 082124 / ESCUADRA PUERTA MARCO-HOJA ESCUADRA VTA.HOJA OCULTA(15976)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,40 |
-
-### 005045 — 024033 / ESCUADRA ALINEACION HOJA ESCUADRA ALINEAR SOLAPE
+## 025035 — PILASTRA ZOCALO RPT MM I
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,55 |
+| Blanco | 39.66 |
+| Plata | 41.66 |
+| L.Varios | 42.82 |
+| Br/Inox/Oro | 44.60 |
+| L.Especial | 46.15 |
 
-### 017210 — 017211 / UNION PILASTRA 65 MM. (5432) UNION PILASTRA PUERTA
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,88 |
-
-### 082118 — 082119 / JGO.TAPAS INVERSOR (25430) JGO.TAPAS INVERSOR (25428)
+## 025430 — NVERSOR RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,50 |
+| Blanco | 24.29 |
+| Plata | 25.69 |
+| L.Varios | 26.59 |
+| Br/Inox/Oro | 27.90 |
+| L.Especial | 28.95 |
 
-### 082123 — 082240 / JGO. TAPAS INVERSOR H.O. (55431) TAPA LATERAL ACERO (45012)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,50 |
-
-### 082113 — 060250 / ANGULO JUNTA CENTRAL PLETINA FALLEBA POLIAMIDA C.E.
+## 055429 — INVERSOR REDUCIDO MM HOJA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,92 |
+| Blanco | 14.63 |
+| Plata | 15.54 |
+| L.Varios | 16.04 |
+| Br/Inox/Oro | 17.03 |
+| L.Especial | 17.47 |
 
-### 082114 — 082815 / JUNTA CENTRAL JUNTA CENTRAL COEXTRUSION
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,09 |
-
-### 026255 — 004041 / DEFLECTOR GOMA BURBUJA GUIADA
+## 025428 — INVERSORA RPT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,36 |
+| Blanco | 31.10 |
+| Plata | 32.82 |
+| L.Varios | 33.98 |
+| Br/Inox/Oro | 35.50 |
+| L.Especial | 36.93 |
 
-### 004001 — 082115 / GOMA LABIO CLIPADA EPDM JUNTA HOJA-MARCO
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,50 |
-
-### 083110 — 042500 / PLETINA FALLEBA POLIAM.PIVOTANTE JUNTA CENTRAL PIVOTANTE(15666)
+## 014291 — VIERTEAGUAS HOJA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 188,00 |
-| Blanco | 105,00 |
-| LcBlanco | 105,00 |
-| LcVarios | 105,00 |
-| Acero | 110,00 |
-| Plata | 90,00 |
+| Blanco | 3.13 |
+| Plata | 3.32 |
+| L.Varios | 3.68 |
+| Br/Inox/Oro | 4.06 |
+| L.Especial | 4.21 |
 
-### 490171 — 025018 / JGO.BISAGRA PIVOTE VISIBLE JGO.BISAGRA PIVOTE OCULTA
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 92,00 |
-| Blanco | 38,00 |
-| LcBlanco | 38,00 |
-| LcVarios | 43,00 |
-| Acero | 41,00 |
-| Plata | 38,00 |
-
-### 050218 — 081711 / MANILLA PIVOTANTE CONJUNTO CIERRE
+## 015670 — PIVOTANTE RPT INSIGNIA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 15,50 |
+| Blanco | 27.88 |
+| Plata | 29.48 |
+| L.Varios | 30.60 |
+| Br/Inox/Oro | 32.02 |
+| L.Especial | 33.36 |
 
-### 081712 — 082210 / CIERRE SUPLEMENTARIO ESPUMA TERMICA 35A*8 ADHESIVA
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,63 |
-
-### 011978 — 011979 / VARILLA TERMICA TUBULAR MARCO VARILLA TERMICA TUBULAR HOJA
+## 015666 — INVERSOR PIVOTANTE INSIGNIA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,53 |
+| Blanco | 20.54 |
+| Plata | 21.72 |
+| L.Varios | 22.66 |
+| Br/Inox/Oro | 23.59 |
+| L.Especial | 24.80 |
 
+## 012770 — PERFIL BAJOS
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 6.06 |
+| Plata | 6.31 |
+| L.Varios | 6.95 |
+| Br/Inox/Oro | 7.39 |
+| L.Especial | 7.70 |
+
+## 035011 — PERFIL SUELO UNIO
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 5.73 |
+| Plata | 5.94 |
+| L.Varios | 6.48 |
+| Br/Inox/Oro | 6.87 |
+| L.Especial | 7.04 |
+
+## 014629 — N MARCOS RPT MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 21.29 |
+| Plata | 22.45 |
+| L.Varios | 23.04 |
+| Br/Inox/Oro | 24.24 |
+| L.Especial | 24.89 |
+
+## 025435 — PISADERA RPT MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 20.18 |
+| Plata | 21.30 |
+| L.Varios | 21.61 |
+| Br/Inox/Oro | 23.02 |
+| L.Especial | 23.16 |
+
+## 045012 — REMATE HOJA
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 4.68 |
+| Plata | 4.87 |
+| L.Varios | 5.21 |
+| Br/Inox/Oro | 5.66 |
+| L.Especial | 5.75 |
+
+## 014730 — ESQUINERO REGHEMBRA MM ESQUI
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 30.13 |
+| Plata | 30.78 |
+| L.Varios | 31.42 |
+| Br/Inox/Oro | 32.87 |
+| L.Especial | 33.63 |
+
+## 014731 — NERO REGMACHO MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 30.02 |
+| Plata | 30.66 |
+| L.Varios | 31.30 |
+| Br/Inox/Oro | 32.75 |
+| L.Especial | 33.51 |
+
+## 014261 — PLETINA FALLEBA ALUMINIO
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 3.30 |
+
+## 013121 — JUNQUILLO PVC H NEO-INSIGNIA
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 7.40 |
+
+## 017755 — EMBELLE JUNQUILLO HX NEO-INSIGNIA
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 2.35 |
+| Plata | 2.77 |
+| L.Varios | 2.98 |
+| Br/Inox/Oro | 3.65 |
+| L.Especial | 3.56 |
+
+## 017756 — JUNQUILLO PVC HX NEO-INSIGNIA
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 2.95 |
+
+## 005571 — UNION UNIVER
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 1.40 |

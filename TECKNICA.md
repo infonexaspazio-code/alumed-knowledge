@@ -1,430 +1,384 @@
-# Tecknica — Tarifa Alumed 2025
+# TECKNICA — Tarifa Alumed 2025
+> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)
+> Precios en €/metro lineal salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
-> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)  
-> Precios en €/metro lineal salvo indicación.  
-> Consultar disponibilidad y condiciones en delegación Valencia: valencia@alumed.es
-
-## Leyenda de acabados
-
-| Código | Descripción |
-|---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial / colección |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
-| Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
-| Acero | Acabado acero / inox |
-
-## Perfiles y Accesorios (48 referencias)
-
-### 067714 — 067715 / RUEDA TANDEM MAGNA 160 KG. JGO. CORTAVIENTOS GOMA (15427)
+## 014652 — MARCO PERIMETRAL MM MARC
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 4,00 |
+| Blanco | 20.35 |
+| Plata | 21.04 |
+| L.Varios | 23.20 |
+| Br/Inox/Oro | 24.30 |
+| L.Especial | 25.49 |
 
-### 067716 — 067706 / JGO.CORTAVIENTO LINEA(HOJA PRT.) TAPA HOJA CENTRAL
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,94 |
-
-### 067707 — 082110 / TOPE FINAL CARRERA+ANTIELEVACION ESCUADRA VTA.(HOJA PERIM.-FIJO)
+## 005568 — O PERIMET MMCSOLAPE
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,55 |
+| Blanco | 23.47 |
+| Plata | 24.24 |
+| L.Varios | 26.77 |
+| Br/Inox/Oro | 27.97 |
+| L.Especial | 29.43 |
 
-### 017210 — 067719 / UNION PILASTRA 65 MM. (5432) ESCUADRA ALINEAR HOJA
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,10 |
-
-### 024033 — 002174 / ESCUADRA ALINEAR SOLAPE MULTIPUNTO C/LLAVE
+## 014646 — MARCO PERIMETRAL MM MARC
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 7,03 |
-| Blanco | 6,18 |
-| LcBlanco | 6,18 |
-| LcVarios | 6,18 |
-| Acero | 14,89 |
-| Plata | 9,40 |
+| Blanco | 17.64 |
+| Plata | 18.24 |
+| L.Varios | 20.07 |
+| Br/Inox/Oro | 21.06 |
+| L.Especial | 21.99 |
 
-### 063970 — 067710 / CIERRE EMBUTIDO MULT. MAGNA MULTIPUNTO 1 PUNTO 210 MM.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 8,98 |
-
-### 067711 — 067712 / MULTIPUNTO 2 PUNTOS 600 MM. MULTIPUNTO 2 PUNTOS 1000 MM.
+## 005570 — O PERIMET MMCSOLAPE
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 15,50 |
+| Blanco | 20.22 |
+| Plata | 20.91 |
+| L.Varios | 23.06 |
+| Br/Inox/Oro | 24.16 |
+| L.Especial | 25.35 |
 
-### 067713 — 002075
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,80 |
-
-### 067722 — 067717 / TAPA UNION 4 HOJAS JGO.TAPAS EXT.HOJA CENTRAL
+## 015583 — MARCO MONOCARRIL PRMT MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,90 |
+| Blanco | 19.14 |
+| Plata | 19.78 |
+| L.Varios | 21.78 |
+| Br/Inox/Oro | 22.82 |
+| L.Especial | 23.87 |
 
-### 067718 — 002069 / JGO.TAPAS INT.HOJA CENTRAL JGO. TAPA CUMBRERA (14654)
-
-| Acabado | Precio € |
-|---|---|
-| Blanco | 20,35 |
-| Plata | 21,04 |
-| L.Varios | 23,20 |
-| Br/Inox/Oro | 24,30 |
-| L.Especial | 25,49 |
-
-### 014652 — Futura 28,19 005568 Futura 32,56
+## 005931 — MARCO LATERAL RECTO
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 34,74 |
-| Blanco | 17,64 |
-| Plata | 18,24 |
-| L.Varios | 20,07 |
-| Br/Inox/Oro | 21,06 |
-| L.Especial | 21,99 |
+| Blanco | 12.37 |
+| Plata | 12.86 |
+| L.Varios | 14.17 |
+| Br/Inox/Oro | 15.04 |
+| L.Especial | 15.66 |
 
-### 014646 — Futura 24,24 005570 Futura 28,05
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 29,81 |
-| Blanco | 19,14 |
-| Plata | 19,78 |
-| L.Varios | 21,78 |
-| Br/Inox/Oro | 22,82 |
-| L.Especial | 23,87 |
-
-### 015583 — Futura 26,32 005931 Futura 17,43
+## 005932 — MARCO SUPERIOR RECTO
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 32,36 |
-| Blanco | 17,59 |
-| Plata | 18,24 |
-| L.Varios | 20,13 |
-| Br/Inox/Oro | 21,18 |
-| L.Especial | 22,24 |
+| Blanco | 17.59 |
+| Plata | 18.24 |
+| L.Varios | 20.13 |
+| Br/Inox/Oro | 21.18 |
+| L.Especial | 22.24 |
 
-### 005932 — Futura 24,71 005933 Futura 26,70
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 30,57 |
-| Blanco | 19,40 |
-| Plata | 20,17 |
-| L.Varios | 22,21 |
-| Br/Inox/Oro | 23,54 |
-| L.Especial | 24,53 |
-
-### 005934 — Futura 27,25 014647 Futura 17,66
+## 005933 — MARCO INFERIOR RECTO
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 33,72 |
-| Blanco | 2,80 |
-| Plata | 2,93 |
-| L.Varios | 4,50 |
-| Br/Inox/Oro | 3,48 |
-| L.Especial | 3,87 |
+| Blanco | 19.21 |
+| Plata | 19.88 |
+| L.Varios | 21.92 |
+| Br/Inox/Oro | 23.00 |
+| L.Especial | 24.12 |
 
-### 014653 — Futura 014660 Futura 4,50
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 5,76 |
-| Blanco | 14,88 |
-| Plata | 15,44 |
-| L.Varios | 17,01 |
-| Br/Inox/Oro | 17,96 |
-| L.Especial | 18,75 |
-
-### 014648 — Futura 20,81 014649 Futura 17,09 / TECKNICA
+## 005934 — MARCO MM MM
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 25,71 |
-| Blanco | 13,52 |
-| Plata | 14,05 |
-| L.Varios | 15,47 |
-| Br/Inox/Oro | 16,39 |
-| L.Especial | 17,10 |
+| Blanco | 19.40 |
+| Plata | 20.17 |
+| L.Varios | 22.21 |
+| Br/Inox/Oro | 23.54 |
+| L.Especial | 24.53 |
 
-### 017940 — Futura 19,00 017938 Futura 9,75
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 23,51 |
-| Blanco | 9,69 |
-| Plata | 10,11 |
-| L.Varios | 11,12 |
-| Br/Inox/Oro | 11,91 |
-| L.Especial | 12,32 |
-
-### 015629 — Futura 13,74 017628 Futura 20,32
+## 014647 — PLURICARRIL
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 17,05 |
-| Blanco | 22,62 |
-| Plata | 23,30 |
-| L.Varios | 25,44 |
-| Br/Inox/Oro | 26,68 |
-| L.Especial | 27,42 |
+| Blanco | 12.73 |
+| Plata | 13.15 |
+| L.Varios | 14.52 |
+| Br/Inox/Oro | 15.15 |
+| L.Especial | 15.96 |
 
-### 017858 — Futura 29,75 017629 Futura 12,13
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 36,09 |
-| Blanco | 17,16 |
-| Plata | 18,05 |
-| L.Varios | 18,41 |
-| Br/Inox/Oro | 19,47 |
-| L.Especial | 18,92 |
-
-### 005419 — Futura 21,31 015854 Futura 10,53
+## 014653 — RAIL R
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 22,75 |
-| Blanco | 5,95 |
-| Plata | 6,26 |
-| L.Varios | 6,83 |
-| Br/Inox/Oro | 7,49 |
-| L.Especial | 7,56 |
+| L.Varios | 4.50 |
 
-### 015586 — Futura 8,43 015585 Futura 14,70
+## 014660 — EMATE FRONTAL MARCOS
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 10,45 |
-| Blanco | 15,13 |
-| Plata | 15,56 |
-| L.Varios | 16,00 |
-| Br/Inox/Oro | 17,08 |
-| L.Especial | 17,25 |
+| Blanco | 2.80 |
+| Plata | 2.93 |
+| L.Varios | 3.33 |
+| Br/Inox/Oro | 3.48 |
+| L.Especial | 3.87 |
 
-### 005973 — Futura 19,33 015587 Futura 19,06
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 21,95 |
-| Blanco | 5,85 |
-| Plata | 6,10 |
-| L.Varios | 6,74 |
-| Br/Inox/Oro | 7,19 |
-| L.Especial | 7,52 |
-
-### 005935 — Futura 8,44 015672 Futura 6,21 / TECKNICA
+## 014648 — HOJA LATERAL
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 10,53 |
-| Blanco | 5,07 |
-| Plata | 5,39 |
-| L.Varios | 5,91 |
-| Br/Inox/Oro | 6,58 |
-| L.Especial | 6,70 |
+| Blanco | 14.88 |
+| Plata | 15.44 |
+| L.Varios | 17.01 |
+| Br/Inox/Oro | 17.96 |
+| L.Especial | 18.75 |
 
-### 002989 — Futura 7,62 014655 Futura 7,94
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 9,60 |
-| Blanco | 4,66 |
-| Plata | 4,94 |
-| L.Varios | 5,38 |
-| Br/Inox/Oro | 6,00 |
-| L.Especial | 6,00 |
-
-### 014654 — Futura 6,74 018322 Futura 7,08
+## 014649 — HOJA RUEDA
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 8,40 |
-| Blanco | 4,86 |
-| Plata | 5,06 |
-| L.Varios | 5,54 |
-| Br/Inox/Oro | 5,93 |
-| L.Especial | 6,10 |
+| Blanco | 12.28 |
+| Plata | 12.76 |
+| L.Varios | 14.02 |
+| Br/Inox/Oro | 14.87 |
+| L.Especial | 15.43 |
 
-### 018713 — Futura 6,75 017034 Futura 14,16
-
-| Acabado | Precio € |
-|---|---|
-| Madera | 8,32 |
-| Blanco | 16,73 |
-| Plata | 17,34 |
-| L.Varios | 19,13 |
-| Br/Inox/Oro | 20,13 |
-| L.Especial | 21,09 |
-
-### 018241 — Futura 23,40 012263 Futura 24,00
+## 017940 — HOJA PERIMETRAL CLIP
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 28,91 |
-| L.Varios | 1,40 |
+| Blanco | 13.52 |
+| Plata | 14.05 |
+| L.Varios | 15.47 |
+| Br/Inox/Oro | 16.39 |
+| L.Especial | 17.10 |
 
-### 005571 — Futura 015574 Futura
-
-| Acabado | Precio € |
-|---|---|
-| L.Varios | 3,40 |
-
-### 015568 — Futura 015578 Futura / ACCESORIOS TECKNICA
+## 017938 — HOJA CENTRO PERIMETRAL
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 3,00 |
+| Blanco | 6.80 |
+| Plata | 7.08 |
+| L.Varios | 7.83 |
+| Br/Inox/Oro | 8.31 |
+| L.Especial | 8.71 |
 
-### 002190 — 002192 / KIT TECKNICA 2 HOJAS RECTAS KIT TECKNICA 2 HOJAS PERIMETRAL
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 3,90 |
-
-### 002091 — 002061 / KIT TECKNICA 1 HOJA CENTRO JUEGO CORTAVIENTOS TECKNICA
+## 015629 — HOJA CENTRAL VENTANA HOJ
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,65 |
+| Blanco | 9.69 |
+| Plata | 10.11 |
+| L.Varios | 11.12 |
+| Br/Inox/Oro | 11.91 |
+| L.Especial | 12.32 |
 
-### 002161 — 002191 / JGO.CORTAVIENTOS MARCOS RECTOS ADHESIVO MARCOS RECTOS
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 5,51 |
-
-### 002162 — 002160 / RUEDA TAND. REG.AGUJAS 140 KG RUEDA REG. 70 KG. HOJA
+## 017628 — A CENTRAL BALCONERA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,12 |
+| Blanco | 14.87 |
+| Plata | 15.45 |
+| L.Varios | 16.89 |
+| Br/Inox/Oro | 18.02 |
+| L.Especial | 18.47 |
 
-### 002065 — 082110 / ESCUADRA TECKNICA MARCOS ESCUADRA VTA.(HOJA PERIM.-FIJO)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,08 |
-
-### 041216 — 041618 / ESCUADRA VENTANA UNION PILASTRA VTA.(14508)
+## 017858 — HOJA CENTRAL REFORZADA H
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,32 |
+| Blanco | 22.62 |
+| Plata | 23.30 |
+| L.Varios | 25.44 |
+| Br/Inox/Oro | 26.68 |
+| L.Especial | 27.42 |
 
-### 002095 — 002094 / UNION HOJA CENTRAL(15453-17940) ESCUADRA ALINEAR (15453-17940)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,10 |
-| Blanco | 5,98 |
-| LcBlanco | 5,98 |
-| LcVarios | 5,98 |
-| Acero | 6,50 |
-| Plata | 6,50 |
-
-### 024033 — 012152 / ESCUADRA ALINEAR SOLAPE CIERRE EMBUTIDO(15453-17940)
+## 017629 — OJA CENTRAL VENTANA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 11,18 |
-| Blanco | 4,32 |
-| LcBlanco | 4,32 |
-| LcVarios | 4,32 |
-| Acero | 12,01 |
-| Plata | 5,04 |
+| Blanco | 8.53 |
+| Plata | 8.93 |
+| L.Varios | 9.80 |
+| Br/Inox/Oro | 10.55 |
+| L.Especial | 10.87 |
 
-### 002074 — 002165 / CIERRE EMBUTIDO(5422-14648) CALZO MULTIPUNTO(15453-17940)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,50 |
-
-### 002080 — 002174 / CERRADERO MULTIPUNTO C/LLAVE
+## 005419 — DIVISOR HOJA RPT
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 3,50 |
-| Blanco | 10,04 |
-| LcBlanco | 10,04 |
-| LcVarios | 10,04 |
-| Acero | 14,88 |
-| Plata | 11,55 |
+| Blanco | 17.16 |
+| Plata | 18.05 |
+| L.Varios | 18.41 |
+| Br/Inox/Oro | 19.47 |
+| L.Especial | 18.92 |
 
-### 063980 — 002083 / CIERRE EMBUTIDO MULTIPUNTO MULTIPUNTO 1 PUNTO 210 MM.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 5,43 |
-
-### 002072 — 002071 / MULTIPUNTO 600 MM. MULTIPUNTO 1000 MM.
+## 015854 — UNION HOJAS
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 11,18 |
-| Blanco | 11,18 |
-| LcBlanco | 11,18 |
-| LcVarios | 11,97 |
-| Acero | 11,97 |
-| Plata | 11,18 |
+| Blanco | 7.45 |
+| Plata | 7.67 |
+| L.Varios | 8.54 |
+| Br/Inox/Oro | 8.80 |
+| L.Especial | 9.45 |
 
-### 002073 — 002181 / MULTIPUNTO 1800 MM. APOYO CRUCE CENTRAL
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,52 |
-
-### 015570 — 015569 / THERMICO JUNQUILLO MONOCARRIL EMBELLECEDOR MARCO
+## 015586 — TAPA MONOCARRIL VERTICAL TAPA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,25 |
+| Blanco | 5.95 |
+| Plata | 6.26 |
+| L.Varios | 6.83 |
+| Br/Inox/Oro | 7.49 |
+| L.Especial | 7.56 |
 
-### 004041 — 002075
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,80 |
-
-### 002093 — 002066 / JGO.TAPA PERFIL(11993)(17858) JGO.TAPA PERFIL INTERIOR(17628)
+## 015585 — MONOCARRIL HORIZONTAL
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,80 |
+| Blanco | 9.25 |
+| Plata | 9.83 |
+| L.Varios | 10.40 |
+| Br/Inox/Oro | 11.55 |
+| L.Especial | 12.16 |
 
-### 002058 — 002069 / JGO.TAPA PERFIL EXT.(11933)(17628) JGO. TAPA CUMBRERA (14654)
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 2,16 |
-
-### 002068 — 002067 / JGO. TAPAS CUMBRERA (14655) JGO.REMATE CUATRO HOJAS(15584)
+## 005973 — CRUCE MONOCARRIL UNICARRIL MARC
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,09 |
-| Blanco | 0,15 |
-| LcBlanco | 0,15 |
-| LcVarios | 0,15 |
+| Blanco | 15.13 |
+| Plata | 15.56 |
+| L.Varios | 16.00 |
+| Br/Inox/Oro | 17.08 |
+| L.Especial | 17.25 |
 
+## 015587 — O UNICARRIL PERIMETRAL
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 13.91 |
+| Plata | 14.41 |
+| L.Varios | 15.82 |
+| Br/Inox/Oro | 16.69 |
+| L.Especial | 17.31 |
+
+## 005935 — SOLAPE MM MARCO RECTO RE
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 5.85 |
+| Plata | 6.10 |
+| L.Varios | 6.74 |
+| Br/Inox/Oro | 7.19 |
+| L.Especial | 7.52 |
+
+## 015672 — DUCTOR CAMARA MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 4.34 |
+| Plata | 4.54 |
+| L.Varios | 4.99 |
+| Br/Inox/Oro | 5.38 |
+| L.Especial | 5.55 |
+
+## 002989 — LAMA FIJA MALLORQUINA CU
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 5.07 |
+| Plata | 5.39 |
+| L.Varios | 5.91 |
+| Br/Inox/Oro | 6.58 |
+| L.Especial | 6.70 |
+
+## 014655 — MBRERA MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 5.48 |
+| Plata | 5.79 |
+| L.Varios | 6.33 |
+| Br/Inox/Oro | 6.99 |
+| L.Especial | 7.07 |
+
+## 014654 — CUMBRERA MM UNI
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 4.66 |
+| Plata | 4.94 |
+| L.Varios | 5.38 |
+| Br/Inox/Oro | 6.00 |
+| L.Especial | 6.00 |
+
+## 018322 — ON MARCOS MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 4.97 |
+| Plata | 5.25 |
+| L.Varios | 5.71 |
+| Br/Inox/Oro | 6.34 |
+| L.Especial | 6.34 |
+
+## 018713 — UNION MARCOS - MM MARC
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 4.86 |
+| Plata | 5.06 |
+| L.Varios | 5.54 |
+| Br/Inox/Oro | 5.93 |
+| L.Especial | 6.10 |
+
+## 017034 — O VENTANA MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 9.88 |
+| Plata | 10.32 |
+| L.Varios | 11.37 |
+| Br/Inox/Oro | 12.18 |
+| L.Especial | 12.65 |
+
+## 018241 — MARCO FIJO MM
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 16.73 |
+| Plata | 17.34 |
+| L.Varios | 19.13 |
+| Br/Inox/Oro | 20.13 |
+| L.Especial | 21.09 |
+
+## 012263 — ESQUINERO
+
+| Acabado | Precio € |
+|---|---|
+| Blanco | 17.34 |
+| Plata | 17.95 |
+| L.Varios | 19.77 |
+| Br/Inox/Oro | 20.77 |
+| L.Especial | 21.72 |
+
+## 005571 — UNION UNIVERSAL
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 1.40 |
+
+## 015574 — CRUCE COEXCENTRAL
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 3.18 |
+
+## 015568 — BASE MULTIPUNTO PVC
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 3.40 |
+
+## 015578 — BASE MULTIPUNTO PVC PERIMET
+
+| Acabado | Precio € |
+|---|---|
+| L.Varios | 4.65 |

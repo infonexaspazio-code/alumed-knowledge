@@ -1,223 +1,200 @@
-# Accesorio Stándard CE — Tarifa Alumed 2025
+# ACCESORIO STANDART CE — Tarifa Alumed 2025
+> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)
+> Precios en €/metro lineal salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
-> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)  
-> Precios en €/metro lineal salvo indicación.  
-> Consultar disponibilidad y condiciones en delegación Valencia: valencia@alumed.es
-
-## Leyenda de acabados
-
-| Código | Descripción |
-|---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial / colección |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
-| Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
-| Acero | Acabado acero / inox |
-
-## Perfiles y Accesorios (26 referencias)
-
-### 003802 — 003803 / CREMONA KORA GIESSE CREMONA KORA C/LLAVE GIESSE
+## 093473 — KIT HOJA CE
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 20,65 |
+| Natural | 2.37 |
 
-### 003805 — 003806 / MECANISMO BASE 100 KG. GIESSE BISAGRA COMPAS T1 IZQ. 470-700 MM.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 49,00 |
-
-### 003808 — 003807 / BISAGRA COMPAS T2 IZQ. 600-1600 MM. BISAGRA COMPAS T1 DR. 470-700 MM.
+## 093475 — KIT HOJAS CE
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 49,00 |
+| Natural | 4.55 |
 
-### 003809 — 003810 / BISAGRA COMPAS T2 DR. 600-1600 MM. BISAGRA COMPAS T2 IZQ. 455-700 MM.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 49,00 |
-
-### 003811 — 003812 / BISAGRA COMPAS T2 DR. 455-700 MM. BISAGRA HOJA PASIVA IZQ.
+## 060251 — PUNTO CIERRE SUPLEMENTARIO
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 34,50 |
+| Natural | 2.14 |
 
-### 003813 — 003814
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,75 |
-
-### 003815 — 003816 / PUNTO CIERRE HOJA PASIVA ANGULO REENVIO SUPLEMENTARIO
+## 093440 — CREMONA SIRIUS
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 4,92 |
+| Plata | 9.64 |
+| LcBlanco | 9.15 |
+| LcVarios | 9.15 |
+| Acero | 10.58 |
 
-### 003817 — 003818 / PUNTO CIERRE HORIZONTAL PUNTO CIERRE PASIVO REGULABLE
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 4,90 |
-
-### 003819 — 003829 / PUNTO CIERRE PASIVO MECANISMO BASE APT. PRACTICABLE
+## 009560 — CIERRE PRESION
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 7,50 |
-| Blanco | 32,00 |
-| LcBlanco | 32,00 |
-| LcVarios | 35,00 |
-| Acero | 35,00 |
-| Plata | 35,00 |
+| Plata | 8.50 |
+| LcBlanco | 7.60 |
+| LcVarios | 7.00 |
+| Acero | 8.60 |
 
-### 003830 — 330415 / PUNTERO CIERRE MANILLA OCULTA LATERAL MASTER
+## 093620 — BISAGRA CE
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 19,00 |
+| Plata | 2.49 |
+| LcBlanco | 1.99 |
+| LcVarios | 1.99 |
+| Acero | 2.95 |
 
-### 330414 — 330410 / MECANISMO BASE 100 KG. MASTER BISAGRA COMPAS DR. 460-670 MASTER
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 50,00 |
-
-### 330411 — 330412 / BISAGRA COMPAS IZQ. 460-671 MASTER BISAG. COMPAS DR. 671-1700 MASTER
+## 091123 — BISAGRA CE HOJAS
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 55,00 |
+| Plata | 3.50 |
+| LcBlanco | 2.96 |
+| LcVarios | 2.96 |
+| Acero | 3.70 |
 
-### 330413 — 330416 / BISAG. COMPAS IZQ. 671-1700 MASTER BISAGRA DR. H.PASIVA MASTER
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 48,00 |
-
-### 330417 — BISAGRA IZQ. H.PASIVA MASTER / ACCESORIO STANDART C.E.
+## 091124 — BISAGRA CE HOJAS JIRAFA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 2,37 |
+| Plata | 10.45 |
+| LcBlanco | 9.08 |
+| LcVarios | 9.08 |
+| Acero | 11.36 |
 
-### 093473 — 093475 / KIT 1 HOJA C.E. KIT 2 HOJAS C.E.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 2,14 |
-| Blanco | 9,15 |
-| LcBlanco | 9,15 |
-| LcVarios | 9,15 |
-| Acero | 10,58 |
-| Plata | 9,64 |
-
-### 060251 — 093440 / PUNTO CIERRE SUPLEMENTARIO CREMONA SIRIUS
+## 200009 — KIT OSCILO CCREMONA HOJA
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 7,60 |
-| LcBlanco | 7,60 |
-| LcVarios | 7,00 |
-| Acero | 8,60 |
-| Plata | 8,50 |
+| Plata | 38.50 |
+| LcBlanco | 33.50 |
+| LcVarios | 33.50 |
+| Acero | 39.50 |
 
-### 009560 — 093620 / CIERRE PRESION BISAGRA C.E.
-
-| Acabado | Precio € |
-|---|---|
-| Blanco | 2,96 |
-| LcBlanco | 2,96 |
-| LcVarios | 2,96 |
-| Acero | 3,70 |
-| Plata | 3,50 |
-
-### 091123 — 091124 / BISAGRA C.E. 3 HOJAS BISAGRA C.E. 4 HOJAS JIRAFA
+## 200609 — JGOBISAGRAS HOJAS OSCILO
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 33,50 |
-| LcBlanco | 33,50 |
-| LcVarios | 33,50 |
-| Acero | 39,50 |
-| Plata | 38,50 |
+| Plata | 17.47 |
+| LcBlanco | 16.45 |
+| LcVarios | 16.45 |
+| Acero | 19.00 |
 
-### 200009 — 200609 / KIT OSCILO C/CREMONA 1 HOJA JGO.BISAGRAS 2 HOJAS OSCILO
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 14,00 |
-
-### 200709 — 200719 / PASADORES 2 HOJA OSCILO-PALANCA PASADORES 2 HOJAS EXT. PALANCA
+## 200709 — PASADORES HOJA OSCILO-PALANCA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 8,06 |
+| Natural | 14.00 |
 
-### 200509 — 200109 / ANGULO DE REENVIO COMPAS OSCILO A 570-1200 H 700-2400
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 9,28 |
-
-### 200209 — 200219 / COMPAS OSCILO A 442-750 H 500-2400 COMPAS OSCILO A 372-700 H 450-1800
+## 200719 — PASADORES HOJAS EXT PALANCA
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 18,70 |
-| LcBlanco | 18,70 |
-| LcVarios | 18,70 |
-| Acero | 22,50 |
-| Plata | 21,50 |
+| Natural | 11.47 |
 
-### 211602 — 094309 / CREMONA SIRIUS OSCILO C/LLAVE GOLPETE
+## 200509 — ANGULO DE REENVIO
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 6,82 |
-| Blanco | 46,20 |
-| LcBlanco | 46,20 |
-| LcVarios | 46,20 |
-| Acero | 52,60 |
-| Plata | 50,70 |
+| Natural | 8.06 |
 
-### 092014 — 091125 / COMPAS CAMARA EUROPEA JUEGO BISAGRA REGULABLE
+## 200109 — COMPAS OSCILO A - H -
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 24,72 |
-| Blanco | 17,18 |
-| LcBlanco | 17,18 |
-| LcVarios | 17,18 |
-| Acero | 25,33 |
-| Plata | 19,49 |
+| Natural | 9.28 |
 
-### 044620 — 005725 / CERRADURA RESBALON C/BOMBIN CREMONA APERT.EXTERIOR
+## 200209 — COMPAS OSCILO A - H -
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 16,30 |
-| LcBlanco | 16,30 |
-| LcVarios | 16,30 |
-| Acero | 21,00 |
-| Plata | 19,00 |
+| Natural | 9.28 |
 
-### 095182 — 003804 / JGO.MANILLA POLARIS KIT SEGURIDAD JGO. MANILLA RECUPERABLE
+## 200219 — COMPAS OSCILO A - H -
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 3,35 |
-| Blanco | 8,30 |
-| LcBlanco | 8,30 |
-| LcVarios | 8,30 |
+| Natural | 9.28 |
 
+## 211602 — CREMONA SIRIUS OSCILO CLLAVE
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 21.50 |
+| LcBlanco | 18.70 |
+| LcVarios | 18.70 |
+| Acero | 22.50 |
+
+## 094309 — GOLPETE
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 6.18 |
+| LcBlanco | 5.37 |
+| LcVarios | 5.37 |
+| Acero | 6.72 |
+
+## 092014 — COMPAS CAMARA EUROPEA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 6.82 |
+
+## 091125 — JUEGO BISAGRA REGULABLE
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 50.70 |
+| LcBlanco | 46.20 |
+| LcVarios | 46.20 |
+| Acero | 52.60 |
+
+## 044620 — CERRADURA RESBALON CBOMBIN
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 24.72 |
+
+## 005725 — CREMONA APERTEXTERIOR
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 19.49 |
+| LcBlanco | 17.18 |
+| LcVarios | 17.18 |
+| Acero | 25.33 |
+
+## 095182 — JGOMANILLA POLARIS KIT SEGURIDAD
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 19.00 |
+| LcBlanco | 16.30 |
+| LcVarios | 16.30 |
+| Acero | 21.00 |
+
+## 003804 — JGO MANILLA RECUPERABLE
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 26.00 |
+| LcBlanco | 26.00 |
+| LcVarios | 26.00 |
+| Acero | 26.00 |
+
+## 006720 — CREMONA APEREXTERIOR
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 8.30 |
+| LcVarios | 8.30 |
+
+## 000068 — JGO EXTENSOR CREMONA APTEXT
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 3.35 |

@@ -1,170 +1,175 @@
-# Accesorio Oculto Giesse-Master — Tarifa Alumed 2025
+# ACCESORIO OCULTO GIESSE — Tarifa Alumed 2025
+> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)
+> Precios en €/metro lineal salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
-> Fuente: Tarifa ALUMED 2025 v1 (Mayo 2025)  
-> Precios en €/metro lineal salvo indicación.  
-> Consultar disponibilidad y condiciones en delegación Valencia: valencia@alumed.es
-
-## Leyenda de acabados
-
-| Código | Descripción |
-|---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial / colección |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
-| Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
-| Acero | Acabado acero / inox |
-
-## Perfiles y Accesorios (20 referencias)
-
-### 002885 — Futura 9,15 015127 Futura 8,93
+## 003802 — CREMONA KORA GIESSE
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 11,33 |
-| Blanco | 12,53 |
-| Plata | 13,01 |
-| L.Varios | 14,29 |
-| Br/Inox/Oro | 15,15 |
-| L.Especial | 15,72 |
+| Plata | 14.00 |
+| LcBlanco | 14.00 |
+| LcVarios | 14.00 |
+| Acero | 16.00 |
 
-### 003364 — Futura 17,40 051664 Futura 23,39
+## 003803 — CREMONA KORA CLLAVE GIESSE
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 21,46 |
-| Blanco | 13,82 |
-| Plata | 14,35 |
-| L.Varios | 15,80 |
-| Br/Inox/Oro | 16,71 |
-| L.Especial | 17,41 |
+| Plata | 35.00 |
+| LcBlanco | 31.00 |
+| LcVarios | 31.00 |
+| Acero | 35.00 |
 
-### 014100 — Futura 19,32 / ACCESORIOS ALUMED 21
+## 003805 — MECANISMO BASE KG GIESSE
 
 | Acabado | Precio € |
 |---|---|
-| Madera | 23,86 |
-| Natural | 1,07 |
+| Natural | 20.65 |
 
-### 012600 — 012601 / KIT ALUMED-21 RUEDA REGUL. ALUMED-21
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,51 |
-| Blanco | 2,04 |
-| LcBlanco | 2,04 |
-| LcVarios | 2,04 |
-
-### 012602 — 021871 / RUEDA PLAST.FIJA ALUMED-21 CIERRE COMBI CORREDERA
+## 003806 — BISAGRA COMPAS T IZQ - MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,10 |
-| Blanco | 6,35 |
-| LcBlanco | 6,35 |
-| LcVarios | 6,35 |
+| Natural | 49.00 |
 
-### 032019 — 022035 / TIRADOR CORREDERA FELPUDO 7*5
+## 003808 — BISAGRA COMPAS T IZQ - MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,57 |
+| Natural | 49.00 |
 
-### 003716 — 024033 / UNION VTA. BLOQUEO-ABAT. 40 ESCUADRA ALINEAR SOLAPE
-
-| Acabado | Precio € |
-|---|---|
-| Blanco | 14,00 |
-| LcBlanco | 14,00 |
-| LcVarios | 14,00 |
-| Acero | 16,00 |
-| Plata | 14,00 |
-
-### 003802 — 003803 / CREMONA KORA GIESSE CREMONA KORA C/LLAVE GIESSE
+## 003807 — BISAGRA COMPAS T DR - MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 20,65 |
+| Natural | 49.00 |
 
-### 003805 — 003806 / MECANISMO BASE 100 KG. GIESSE BISAGRA COMPAS T1 IZQ. 470-700 MM.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 49,00 |
-
-### 003808 — 003807 / BISAGRA COMPAS T2 IZQ. 600-1600 MM. BISAGRA COMPAS T1 DR. 470-700 MM.
+## 003809 — BISAGRA COMPAS T DR - MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 49,00 |
+| Natural | 49.00 |
 
-### 003809 — 003810 / BISAGRA COMPAS T2 DR. 600-1600 MM. BISAGRA COMPAS T2 IZQ. 455-700 MM.
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 49,00 |
-
-### 003811 — 003812 / BISAGRA COMPAS T2 DR. 455-700 MM. BISAGRA HOJA PASIVA IZQ.
+## 003810 — BISAGRA COMPAS T IZQ - MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 34,50 |
+| Natural | 49.00 |
 
-### 003813 — 003814
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 1,75 |
-
-### 003815 — 003816 / PUNTO CIERRE HOJA PASIVA ANGULO REENVIO SUPLEMENTARIO
+## 003811 — BISAGRA COMPAS T DR - MM
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 4,92 |
+| Natural | 49.00 |
 
-### 003817 — 003818 / PUNTO CIERRE HORIZONTAL PUNTO CIERRE PASIVO REGULABLE
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 4,90 |
-
-### 003819 — 003829 / PUNTO CIERRE PASIVO MECANISMO BASE APT. PRACTICABLE
+## 003812 — BISAGRA HOJA PASIVA IZQ
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 7,50 |
-| Blanco | 32,00 |
-| LcBlanco | 32,00 |
-| LcVarios | 35,00 |
-| Acero | 35,00 |
-| Plata | 35,00 |
+| Natural | 34.50 |
 
-### 003830 — 330415 / PUNTERO CIERRE MANILLA OCULTA LATERAL MASTER
+## 003813 — BISAGRA HOJA PASIVA DRCH
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 19,00 |
+| Natural | 34.50 |
 
-### 330414 — 330410 / MECANISMO BASE 100 KG. MASTER BISAGRA COMPAS DR. 460-670 MASTER
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 50,00 |
-
-### 330411 — 330412 / BISAGRA COMPAS IZQ. 460-671 MASTER BISAG. COMPAS DR. 671-1700 MASTER
+## 003814 — MECANISMO ªHOJA PALANCA BIDIREC
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 55,00 |
+| Natural | 14.60 |
 
-### 330413 — 330416 / BISAG. COMPAS IZQ. 671-1700 MASTER BISAGRA DR. H.PASIVA MASTER
+## 003815 — PUNTO CIERRE HOJA PASIVA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 48,00 |
+| Natural | 1.75 |
 
+## 003816 — ANGULO REENVIO SUPLEMENTARIO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 23.55 |
+
+## 003817 — PUNTO CIERRE HORIZONTAL
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 4.92 |
+
+## 003818 — PUNTO CIERRE PASIVO REGULABLE
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 4.75 |
+
+## 003819 — PUNTO CIERRE PASIVO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 4.90 |
+
+## 003829 — MECANISMO BASE APT PRACTICABLE
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 9.10 |
+
+## 003830 — PUNTERO CIERRE
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 7.50 |
+
+## 330415 — MANILLA OCULTA LATERAL MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Plata | 35.00 |
+| LcBlanco | 32.00 |
+| LcVarios | 35.00 |
+| Acero | 35.00 |
+
+## 330414 — MECANISMO BASE KG MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 19.00 |
+
+## 330410 — BISAGRA COMPAS DR - MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 50.00 |
+
+## 330411 — BISAGRA COMPAS IZQ - MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 50.00 |
+
+## 330412 — BISAG COMPAS DR - MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 55.00 |
+
+## 330413 — BISAG COMPAS IZQ - MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 55.00 |
+
+## 330416 — BISAGRA DR HPASIVA MASTER
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 48.00 |
+
+## 330417 — BISAGRA IZQ
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 48.00 |
