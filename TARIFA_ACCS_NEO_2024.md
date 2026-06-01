@@ -1,71 +1,113 @@
 # TARIFA_ACCS_NEO_2024 — Alumed Sistemas
 
-> Fuente: TARIFA_ACCS_NEO  
-> Vigencia: Marzo 2024  
-> Precios en € por unidad salvo indicación. Consultar delegación Valencia: valencia@alumed.es
-
+> Fuente: TARIFA_NEO_ACCES (Marzo 2024)
+> Vigencia: Marzo 2024
+> Precios en € por unidad salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
 ## Leyenda de acabados
 
 | Código | Descripción |
 |---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
 | Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
+| LcBlanco | Lacado blanco |
+| LcVarios | Lacado varios RAL |
 | Acero | Acabado acero / inox |
+| Plata | Anodizado plata |
 
-## Referencias (8 artículos)
+## 082110 — ESCUADRA VTA.(HOJA PERIM.-FIJO)
 
-### 082110 — 004910
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,65 |
+
+## 004910 — ESCUADRA EXTERIOR
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,71 |
+
+## 041219 — ESCUADRA VTA. HOJA OCULTA NEO
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 1,75 |
 
-### 041219 — 082111
+## 082111 — ESCUADRA PUERTA MARCO-HOJA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,40 |
+| Natural | 1,18 |
 
-### 005045 — 024033
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 0,50 |
-
-### 017210 — 017211
+## 005045 — ESCUADRA ALINEACION HOJA
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 1,00 |
+| Natural | 0,4 |
 
-### 041221 — 041222
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 3,50 |
-
-### 041223 — 082115
+## 024033 — ESCUADRA ALINEAR SOLAPE
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 0,20 |
+| Natural | 0,16 |
 
-### 004041 — 004001
+## 017210 — UNION PILASTRA 65 MM. (5432)
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,5 |
+
+## 017211 — UNION PILASTRA PUERTA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1,1 |
+
+## 041221 — JGO. TAPAS INVERSOR NEO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1,0 |
+
+## 041222 — CALZO APOYO VIDRIO NEO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1,6 |
+
+## 041223 — JUNTA CENTRAL NEO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 3,5 |
+
+## 082115 — JUNTA HOJA-MARCO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,21 |
+
+## 004041 — GOMA BURBUJA GUIADA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,2 |
+
+## 004001 — GOMA LABIO CLIPADA EPDM
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,36 |
+
+## 060250 — PLETINA FALLEBA POLIAMIDA C.E.
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 1,67 |
 
-### 060250 — 026255
+## 026255 — DEFLECTOR
 
-*Precio sin acabado estándar — consultar delegación*
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,07 |
 
