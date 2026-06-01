@@ -1,53 +1,71 @@
 # TARIFA_ACCS_BALCONY_2024 — Alumed Sistemas
 
-> Fuente: TARIFA_ACCS_BALCONY  
-> Vigencia: Abril 2024  
-> Precios en € por unidad salvo indicación. Consultar delegación Valencia: valencia@alumed.es
-
+> Fuente: TARIFA_BALCONY_ACCES (Abril 2024)
+> Vigencia: Abril 2024
+> Precios en € por unidad salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
 ## Leyenda de acabados
 
 | Código | Descripción |
 |---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
 | Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
+| LcBlanco | Lacado blanco |
+| LcVarios | Lacado varios RAL |
 | Acero | Acabado acero / inox |
+| Plata | Anodizado plata |
 
-## Referencias (5 artículos)
-
-### 006270 — 006271
-
-| Acabado | Precio € |
-|---|---|
-| Natural | 7,80 |
-
-### 006272 — 006273
+## 006270 — BASE REDONDA BALCONY
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 6,00 |
+| Natural | 11,0 |
 
-### 006274 — 006275
+## 006271 — TAPA REVERSIBLE 1 BALCONY
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 7,9 |
+
+## 006272 — TAPA REVERSIBLE 2 BALCONY
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 7,8 |
+
+## 006273 — TAPA REVERSIBLE 3 BALCONY
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 7,6 |
+
+## 006274 — TAPA REVERSIBLE 4 BALCONY
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 6,0 |
+
+## 006275 — CINTA ADHE.DOBLE C. 19MM*10M
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 55,6 |
+
+## 006276 — TORNILLO ALLEN M4*12 (CAJA 100)
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,11 |
 
-### 006276 — 006277
+## 006277 — TUERCA REMACHE A2 (CAJA 100)
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,35 |
+
+## 006278 — TORNILLO INOX 2,4*38 (CAJA 100)
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,21 |
-
-### 006278 — TORNILLO INOX 2,4*38 (CAJA 100)
-
-*Precio sin acabado estándar — consultar delegación*
 
