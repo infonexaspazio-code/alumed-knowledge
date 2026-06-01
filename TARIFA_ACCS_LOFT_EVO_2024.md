@@ -1,137 +1,204 @@
 # TARIFA_ACCS_LOFT_EVO_2024 — Alumed Sistemas
 
-> Fuente: TARIFA_ACCS_LOFT_EVO  
-> Vigencia: Junio 2024  
-> Precios en € por unidad salvo indicación. Consultar delegación Valencia: valencia@alumed.es
-
+> Fuente: TARIFA_LOFT_ACCS (Junio 2024)
+> Vigencia: Junio 2024
+> Precios en € por unidad salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
 ## Leyenda de acabados
 
 | Código | Descripción |
 |---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
 | Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
+| LcBlanco | Lacado blanco |
+| LcVarios | Lacado varios RAL |
 | Acero | Acabado acero / inox |
+| Plata | Anodizado plata |
 
-## Referencias (15 artículos)
-
-### 080010 — 080011
+## 080010 — UNION SUPERIOR E INFERIOR
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 41,05 |
-| Natural | 0,84 |
+| Natural | 10,0 |
+
+## 080011 — RUEDA PAR
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 15,0 |
+
+## 008001 — CONJUNTO PATIN CALA
+
+| Acabado | Precio € |
+|---|---|
 | LcBlanco | 41,05 |
 | LcVarios | 41,05 |
 
-### 008001 — 008000
+## 008000 — BISAGRA GARDEN CALA
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 8,33 |
+| LcVarios | 8,33 |
+
+## 080012 — ESCUADRA HOJA
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 0,84 |
 
-### 080012 — 080013
+## 080013 — CIERRE LOFT EVO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 35,0 |
+
+## 080014 — ESCUADRA ALINEACION EXT.
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 1,23 |
 
-### 080014 — 080015
+## 080015 — ESCUADRA ALINEACION INT.
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 3,31 |
+| Natural | 1,23 |
+
+## 021064 — BULON DE CIERRE
+
+| Acabado | Precio € |
+|---|---|
 | Natural | 1,11 |
+
+## 008005 — PASADOR PUNTERA CALA
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1,11 |
+
+## 080021 — CERRADERO
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 1,0 |
+
+## 052020 — UÑERO CALA
+
+| Acabado | Precio € |
+|---|---|
 | LcBlanco | 3,31 |
 | LcVarios | 3,31 |
 
-### 021064 — 008005
+## 080016 — POMO TIRADOR
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 3,31 |
-| Natural | 1,00 |
-| LcBlanco | 3,31 |
-| LcVarios | 3,31 |
+| LcBlanco | 8,0 |
+| LcVarios | 8,0 |
 
-### 080021 — 052020
+## 004041 — GOMA BURBUJA GUIADA
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 8,00 |
-| Natural | 0,20 |
-| LcBlanco | 8,00 |
-| LcVarios | 8,00 |
+| Natural | 0,2 |
 
-### 080016 — 004041
+## 008003 — JGO. PATIN EXTRAMURO
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 55,50 |
+| Natural | 55,5 |
 
-### 008003 — 080017
+## 080017 — PATIN GUIADO EXTRAMURO
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 7,30 |
+| Natural | 0,7 |
+
+## 022061 — FELPUDO 7*11 FIN-SEAL
+
+| Acabado | Precio € |
+|---|---|
 | Natural | 0,28 |
-| LcBlanco | 7,30 |
-| LcVarios | 7,30 |
 
-### 022061 — 080018
+## 080018 — PATIN SUELO
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 7,30 |
+| Natural | 0,75 |
+
+## 006720 — CREMONA APER.EXTERIOR
+
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 7,3 |
+| LcVarios | 7,3 |
+
+## 080019 — TOPE FINAL CARRERA
+
+| Acabado | Precio € |
+|---|---|
 | Natural | 2,43 |
-| LcBlanco | 7,30 |
-| LcVarios | 7,30 |
 
-### 006720 — 080019
+## 080020 — FINAL DE CARRERA
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 226,00 |
 | Natural | 4,54 |
-| LcBlanco | 226,00 |
-| LcVarios | 226,00 |
 
-### 080020 — 080022
+## 080022 — JUEGO BISAGRAS
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 253,00 |
+| LcBlanco | 226,0 |
+| LcVarios | 226,0 |
 
-### 080023 — 080024
+## 080023 — CERRADURA HORIZONTAL
 
 | Acabado | Precio € |
 |---|---|
-| Natural | 46,00 |
+| Natural | 253,0 |
 
-### 080025 — 080026
+## 080024 — CERRADURA VERTICAL C/. LLAVE
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 262,0 |
+
+## 080025 — CERRADERO CERRADURA CENTRAL
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 46,0 |
+
+## 080026 — JUNTA MARCO (17772)
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 7,57 |
+
+## 080027 — KIT ESCUADRAS MARCO
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 88,25 |
 
-### 080027 — 080028
+## 080028 — KIT TORNILLOS HOJA
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 282,00 |
+| Natural | 112,0 |
+
+## 080029 — PLANTILLA PERFORADO MARCO
+
+| Acabado | Precio € |
+|---|---|
 | Natural | 46,86 |
-| LcBlanco | 282,00 |
-| LcVarios | 282,00 |
 
-### 080029 — 080030
+## 080030 — TIRADOR DOBLE IMAN
 
-*Precio sin acabado estándar — consultar delegación*
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 282,0 |
+| LcVarios | 282,0 |
 
