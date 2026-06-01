@@ -1,53 +1,66 @@
 # TARIFA_ACCS_REHA — Alumed Sistemas
 
-> Fuente: TARIFA_ACCS_REHA  
-> Vigencia: Vigente  
-> Precios en € por unidad salvo indicación. Consultar delegación Valencia: valencia@alumed.es
-
+> Fuente: TARIFA_ACCS_REHA
+> Vigencia: Vigente
+> Precios en € por unidad salvo indicación.
+> Consultar disponibilidad: valencia@alumed.es
 
 ## Leyenda de acabados
 
 | Código | Descripción |
 |---|---|
-| Blanco | Lacado blanco básico |
-| Plata | Anodizado plata |
-| L.Varios | Lacado varios colores RAL |
-| Br/Inox/Oro | Anodizado bronce, inox o dorado |
-| L.Especial | Lacado color especial |
-| Futura | Colección Futura (perlados, metalizados) |
-| Madera | Efecto madera (sublimación) |
 | Natural | Sin acabado (crudo) |
-| LcBlanco | Lacado blanco (accesorios) |
-| LcVarios | Lacado varios RAL (accesorios) |
+| LcBlanco | Lacado blanco |
+| LcVarios | Lacado varios RAL |
 | Acero | Acabado acero / inox |
+| Plata | Anodizado plata |
 
-## Referencias (4 artículos)
+## 011390 — JUNTA EXTERIOR BALCONY
 
-### 011390 — 011405
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,51 |
+
+## 011405 — JUNTA INTERIOR BALCONY
+
+| Acabado | Precio € |
+|---|---|
+| Natural | 0,68 |
+
+## 011408 — JUNTA INTERIOR 6+6 BALCONY
 
 | Acabado | Precio € |
 |---|---|
 | Natural | 1,03 |
 
-### 011408 — 004415
+## 004415 — ARANDELA PRESION BALCONY
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 8,00 |
+| Natural | 0,02 |
+
+## 009421 — TUERCA REMACHABLE M5 BALCONY
+
+| Acabado | Precio € |
+|---|---|
 | Natural | 0,32 |
-| LcBlanco | 8,00 |
-| LcVarios | 8,00 |
 
-### 009421 — 000845
+## 000845 — TORNILLO M5 14 MM. BALCONY
 
 | Acabado | Precio € |
 |---|---|
-| Blanco | 8,00 |
+| Natural | 0,05 |
+
+## 006278 — TORNILLO 4,8*25 BALCONY
+
+| Acabado | Precio € |
+|---|---|
 | Natural | 0,07 |
-| LcBlanco | 8,00 |
-| LcVarios | 8,00 |
 
-### 006278 — 002296
+## 002296 — JGO. TAPAS ALUMINIO BALCONY
 
-*Precio sin acabado estándar — consultar delegación*
+| Acabado | Precio € |
+|---|---|
+| LcBlanco | 8,0 |
+| LcVarios | 8,0 |
 
