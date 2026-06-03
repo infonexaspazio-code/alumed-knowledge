@@ -1,0 +1,42 @@
+# ACCESORIOS LOFT EVO MINIMA — Tarifa de Perfiles 2025
+
+> **Fuente:** Tarifa_2025_Catalogo_ALUMED_v1.pdf (págs. 90-92)  
+> **Fecha de conversión:** 2026-06-03  
+> **Validación:** ✅ Completada — 30 artículos  
+
+---
+
+| Ref. | Descripción | Natural | LcBlanco |
+|------|-------------|------|------|
+| 080011 | RUEDA PAR | 15,00 | — |
+| 008001 | CONJUNTO PATIN CALA | 41,05 | 41,05 |
+| 008000 | BISAGRA GARDEN CALA | 8,33 | 8,33 |
+| 080012 | ESCUADRA HOJA | 2,50 | — |
+| 080013 | CIERRE LOFT EVO | 35,00 | — |
+| 080014 | ESCUADRA ALINEACION EXT. | 1,35 | — |
+| 080015 | ESCUADRA ALINEACION INT. | 1,35 | — |
+| 021064 | BULON DE CIERRE | 1,11 | — |
+| 008005 | PASADOR PUNTERA CALA | 1,11 | — |
+| 080021 | CERRADERO | 1,00 | — |
+| 052020 | UÑERO CALA | 3,31 | 3,31 |
+| 080016 | POMO TIRADOR | 4,80 | 4,80 |
+| 004041 | GOMA BURBUJA GUIADA | 0,25 | — |
+| 008003 | JGO. PATIN EXTRAMURO | 27,75 | — |
+| 080017 | PATIN GUIADO EXTRAMURO | 0,70 | — |
+| 022061 | FELPUDO 7*11 FIN-SEAL | 0,28 | — |
+| 080018 | PATIN SUELO | 0,75 | — |
+| 006720 | CREMONA APER.EXTERIOR | 8,30 | 8,30 |
+| 080019 | TOPE FINAL CARRERA | 2,43 | — |
+| 080020 | FINAL DE CARRERA | 4,54 | — |
+| 080022 | JUEGO BISAGRAS | 220,00 | 220,00 |
+| 080023 | CERRADURA HORIZONTAL | 207,00 | — |
+| 080024 | CERRADURA VERTICAL C/. LLAVE | 250,00 | — |
+| 080025 | CERRADERO CERRADURA CENTRAL | 46,00 | — |
+| 080026 | JUNTA MARCO (17772) | 6,20 | — |
+| 080027 | KIT ESCUADRAS MARCO | 73,00 | — |
+| 080028 | KIT TORNILLOS HOJA | 92,00 | — |
+| 080029 | PLANTILLA PERFORADO MARCO | 39,00 | — |
+| 080030 | TIRADOR DOBLE IMAN | 231,00 | 231,00 |
+| 080031 | GUIADOR INFERIOR HOJA | 4,20 | — |
+
+> Precios en €/ud o €/ml según artículo. Tarifa ALUMED 2025. Sujeto a cambios sin previo aviso.

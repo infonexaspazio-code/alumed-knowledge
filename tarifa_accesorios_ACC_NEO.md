@@ -1,0 +1,30 @@
+# ACCESORIOS NEO — Tarifa de Perfiles 2025
+
+> **Fuente:** Tarifa_2025_Catalogo_ALUMED_v1.pdf (págs. 51-52)  
+> **Fecha de conversión:** 2026-06-03  
+> **Validación:** ✅ Completada — 18 artículos  
+
+---
+
+| Ref. | Descripción | Natural |
+|------|-------------|------|
+| 082110 | ESCUADRA VTA.(HOJA PERIM.-FIJO) | 0,65 |
+| 004910 | ESCUADRA EXTERIOR | 0,80 |
+| 041219 | ESCUADRA VTA. HOJA OCULTA NEO | 1,75 |
+| 082111 | ESCUADRA PUERTA MARCO-HOJA | 1,47 |
+| 005045 | ESCUADRA ALINEACION HOJA | 0,40 |
+| 024033 | ESCUADRA ALINEAR SOLAPE | 0,10 |
+| 017210 | UNION PILASTRA 65 MM. (5432) | 0,55 |
+| 017211 | UNION PILASTRA PUERTA | 1,37 |
+| 041221 | JGO. TAPAS INVERSOR NEO | 1,00 |
+| 082125 | JGO. TAPAS INVERSOR H.O. (55426) | 1,50 |
+| 041222 | CALZO APOYO VIDRIO NEO | 1,60 |
+| 041223 | JUNTA CENTRAL NEO | 3,80 |
+| 082115 | JUNTA HOJA-MARCO | 0,24 |
+| 004041 | GOMA BURBUJA GUIADA | 0,25 |
+| 004001 | GOMA LABIO CLIPADA EPDM | 0,36 |
+| 017758 | GOMA APOYO CRISTAL (17755-17756) | 0,63 |
+| 060250 | PLETINA FALLEBA POLIAMIDA C.E. | 1,20 |
+| 026255 | DEFLECTOR | 0,09 |
+
+> Precios en €/ud o €/ml según artículo. Tarifa ALUMED 2025. Sujeto a cambios sin previo aviso.
